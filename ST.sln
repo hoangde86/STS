@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.Hrm", "ST.Hrm\ST.Hrm.csproj", "{890221D1-9889-4C3A-8CCA-AABC714CEEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{B2AE5DAE-786C-45CE-96DB-C65F34710980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890221D1-9889-4C3A-8CCA-AABC714CEEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890221D1-9889-4C3A-8CCA-AABC714CEEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890221D1-9889-4C3A-8CCA-AABC714CEEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890221D1-9889-4C3A-8CCA-AABC714CEEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AE5DAE-786C-45CE-96DB-C65F34710980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AE5DAE-786C-45CE-96DB-C65F34710980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AE5DAE-786C-45CE-96DB-C65F34710980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AE5DAE-786C-45CE-96DB-C65F34710980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2970EF-7626-4B12-AF6C-4BB72B1AACC7}
+	EndGlobalSection
+EndGlobal
