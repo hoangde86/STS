@@ -15,7 +15,7 @@ namespace Commons
 
         private static string _Password;
 
-        public static string CNStr
+        public static string ConnStr
         {
             get
             {
